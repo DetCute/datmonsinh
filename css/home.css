@@ -100,8 +100,7 @@
 	height: 93vh;
 	position: fixed;
 	transform: translateX(-50%);
-
-	background-image: url('../../img/Heroanim.webp');
+	background-image: url('../img/Heroanim.webp');
 	background-position: top;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -433,65 +432,65 @@ input[name=subscribe-input] {
 }
 
 #bhtc:hover{
-	background-image: url('../../images/Baohotaychan Kwon.png');
+	background-image: url('../images/Baohotaychan Kwon.png');
 }
 #bhr:hover{
-	background-image: url('../../images/Baohorang Kwon.png');
+	background-image: url('../images/Baohorang Kwon.png');
 }
 #gg:hover{
-	background-image: url('../../images/Gangdam Everlast.png');
+	background-image: url('../images/Gangdam Everlast.png');
 }
 #gp:hover{
-	background-image: url('../../images/Giap doi khang.png');
+	background-image: url('../images/Giap doi khang.png');
 }
 #dqt:hover{
-	background-image: url('../../images/Dayquantay BN.png');
+	background-image: url('../images/Dayquantay BN.png');
 }
 #m:hover{
-	background-image: url('../../images/Mu Apolo.png');
+	background-image: url('../images/Mu Apolo.png');
 }
 #kk:hover{
-	background-image: url('../../images/Kuki nam Unicorn.png');
+	background-image: url('../images/Kuki nam Unicorn.png');
 }
 #ddd:hover{
-	background-image: url('../../images/Dichdadon Kangrui.png');
+	background-image: url('../images/Dichdadon Kangrui.png');
 }
 #ddk:hover{
-	background-image: url('../../images/Dichdakep WTF.png');
+	background-image: url('../images/Dichdakep WTF.png');
 }
 #dd:hover{
-	background-image: url('../../images/Dichdam Fighter.png');
+	background-image: url('../images/Dichdam Fighter.png');
 }
 #dad:hover{
-	background-image: url('../../images/Daidao.png');
+	background-image: url('../images/Daidao.png');
 }
 #dod:hover{
-	background-image: url('../../images/Dondao Ailaikit.png');
+	background-image: url('../images/Dondao Ailaikit.png');
 }
 #k:hover{
-	background-image: url('../../images/Kiem.png');
+	background-image: url('../images/Kiem.png');
 }
 #mb:hover{
-	background-image: url('../../images/Mocban.png');
+	background-image: url('../images/Mocban.png');
 }
 #sd:hover{
-	background-image: url('../../images/Songdao.png');
+	background-image: url('../images/Songdao.png');
 }
 #q:hover{
-	background-image: url('../../images/Quat.png');
+	background-image: url('../images/Quat.png');
 }
 #tc:hover{
-	background-image: url('../../images/Truongcon Ailaikit.png');
+	background-image: url('../images/Truongcon Ailaikit.png');
 }
 #cnk:hover{
-	background-image: url('../../images/Connhikhuc.png');
+	background-image: url('../images/Connhikhuc.png');
 }
 #d:hover{
-	background-image: url('../../images/Dai TanViet.png');
+	background-image: url('../images/Dai TanViet.png');
 }
 #vp:hover{
-	background-image: url('../../images/Vophuc.png');
+	background-image: url('../images/Vophuc.png');
 }
 #mt:hover{
-	background-image: url('../../images/Matau Ailaikit.png');
+	background-image: url('../images/Matau Ailaikit.png');
 }

@@ -23,32 +23,32 @@ html {
 
 @font-face {
 	font-family: "sRegular";
-	src: url("../../font/NotoSansDisplay-Regular.woff");
+	src: url("../font/NotoSansDisplay-Regular.woff");
 }
 @font-face {
 	font-family: "sItalic";
-	src: url("../../font/NotoSansDisplay-Italic.woff");
+	src: url("../font/NotoSansDisplay-Italic.woff");
 }
 @font-face {
 	font-family: "sLight";
-	src: url("../../font/NotoSansDisplay-Light.woff");
+	src: url("../font/NotoSansDisplay-Light.woff");
 }
 @font-face {
 	font-family: "sSemibold";
-	src: url("../../font/NotoSansDisplay-SemiBold.woff");
+	src: url("../font/NotoSansDisplay-SemiBold.woff");
 }
 @font-face {
 	font-family: "sBold";
-	src: url("../../font/NotoSansDisplay-Bold.woff");
+	src: url("../font/NotoSansDisplay-Bold.woff");
 }
 @font-face {
 	font-family: "sBlack";
-	src: url("../../font/NotoSansDisplay-Black.woff");
+	src: url("../font/NotoSansDisplay-Black.woff");
 }
 
 @font-face {
 	font-family: "sHead";
-	src: url("../../font/UTM-Faltura.woff");
+	src: url("../font/UTM-Faltura.woff");
 }
 
 @media screen and (max-width: 1000px) {
@@ -174,7 +174,7 @@ section{
 .logo{
 	width: 20%;
 	max-width: 150px;
-	background-image: url('../../img/logo.svg');
+	background-image: url('../img/logo.svg');
 	background-repeat: no-repeat;
 	background-position: left;
 
@@ -193,7 +193,7 @@ section{
 }
 
 .navigation:hover>.hamburger{
-	background-image: url('../../img/closehover.svg');
+	background-image: url('../img/closehover.svg');
 }
 .nav a{
 	height: 80%;
@@ -241,7 +241,7 @@ section{
 	position: absolute;
 	right: 2.5vw;
 	top: 1vh;
-	background-image: url('../../img/menu.svg');
+	background-image: url('../img/menu.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	transition: 0.15s ease forwards;
@@ -253,7 +253,7 @@ section{
 }
 
 .hamburger:hover{
-	background-image: url('../../img/closehover.svg');
+	background-image: url('../img/closehover.svg');
 }
 
 /* FOOTER */
